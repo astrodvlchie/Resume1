@@ -1,0 +1,68 @@
+#Menu  {
+  width: 10%;
+ font-size: 110%;
+ text-align: left;
+ background-color: #003049;
+ margin: 0px;
+padding: 20px;
+ }
+ #self {
+  background-color: #457b9d;
+  color: #2E2F2F;
+  font-size: larger;
+  text-align: center;
+ }
+#Body{
+  color: black;
+  font-size: 120%;
+  display: flex;
+  flex-direction: column;
+
+}
+#sidebar{
+  width: 20%;
+  padding: 1rem;
+  background-color: #003049; 
+}
+#footer {
+  background-color: #7A5C58;
+  text-align: center;
+  color: white;
+}
+#picture{
+  width: 25%;
+  height: 27%;
+  border-radius: 50%;
+  border: 10px solid #ee4266;  
+}
+#Education {
+  background-color: #dee2ff;
+   width: 15%;
+ }
+ #Qualifications{
+   background-color:#2ec4b6 ;
+   width: 15%;
+ }
+ #Experience{
+   background-color: #00c49a;
+   width: 10%;
+ }
+ #Skills{
+   background-color:#00b2ca ;
+   width: 5%;
+ }
+ #Body{
+  color: black;
+  font-size: 120%;
+  
+  flex-direction: column;
+}
+#footer {
+  background-color: #7A5C58;
+  text-align: center;
+  color: white;
+}
+#container{
+display: flex;
+}
+
